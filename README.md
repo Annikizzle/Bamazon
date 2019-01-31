@@ -6,7 +6,7 @@
 **Running this application will first display all of the items available for sale.**
 
 
-![inventory](https://github.com/Annikizzle/Bamazon/blob/master/images/3.png?raw=true)
+![inventory](https://github.com/Annikizzle/Bamazon/blob/master/images/1.png?raw=true)
 
 
 The app then prompts users with two messages; ID of the product they would like to buy, and how many units of the product they would like to buy.
@@ -32,7 +32,7 @@ List a set of menu options: **View Products for Sale, View Low Inventory, Add to
 
 When a manager selects View Products for Sale, the app lists every available item: the item IDs, names, prices, and quantities.
 
-![manager-inventory](https://github.com/Annikizzle/Bamazon/blob/master/images/7.png?raw=true)
+![manager-inventory](https://github.com/Annikizzle/Bamazon/blob/master/images/1.png?raw=true)
 
 
 If a manager selects View Low Inventory, then it lists all items with an inventory count lower than five.
